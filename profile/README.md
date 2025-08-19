@@ -13,3 +13,10 @@ ITUG (International TUSTEP USER GROUP)
 * 2024
 * [2025](https://github.com/ITUG/mtr_preisaufgabe_2025)
 
+## TUSTEP Jour Fixe
+* [Datei- und Projektnamen in TUSTEP](https://itug.github.io/ITUGJF02/): Nichtkonforme Namen
+* [TUSTEP Standard-Makros](https://itug.github.io/ITUGJF03/): Von RTF mit *import zur Weiterverabeitung mit *satz
+* [Im- und Export von Tabellenstrukturen](https://itug.github.io/ITUGJF05/): Von EXCEL zu TUSTEP und retour
+* [Segmente und Segmentdateien](https://itug.github.io/ITUGJF06/): Eine Einführung
+* [Google-Tabellen mit TUSTEP bearbeiten](https://itug.github.io/ITUGJF11/)
+* [TUSTEP als externes Tool in XML-Workflows](https://itug.github.io/ITUGJF12/)

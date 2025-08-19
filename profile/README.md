@@ -4,9 +4,9 @@ ITUG (International TUSTEP USER GROUP)
 ## HOMEPAGE 
 * [homepage](https://itug.github.io/homepage/)
 
-* ## WIKI
+## WIKI
 
-[TUSTEP-WIKI](https://wiki.itug.de/doku.php)
+* [TUSTEP-WIKI](https://wiki.itug.de/doku.php)
 
 ## Michael Trauth Gedächnispreis 
 

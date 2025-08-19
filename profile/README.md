@@ -14,7 +14,8 @@ ITUG (International TUSTEP USER GROUP)
 * [2025](https://github.com/ITUG/mtr_preisaufgabe_2025)
 
 ## Workshops / Kurse
-* [TUSCRIPT Sommer Kurs](https://itug.github.io/TUSCRIPT/): TUSCRIPT: Eine Einführung
+* [TUSCRIPT Sommer Kurs](https://itug.github.io/TUSCRIPT/): TUSCRIPT: Eine Einführung (2021)
+* [TUSCRIPT](https://itug.github.io/ITUG2022_workshop/): Eine Einführung (2022)
 
 ## TUSTEP Jour Fixe
 * [Datei- und Projektnamen in TUSTEP](https://itug.github.io/ITUGJF02/): Nichtkonforme Namen

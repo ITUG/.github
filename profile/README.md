@@ -20,7 +20,9 @@ ITUG (International TUSTEP USER GROUP)
 ## TUSTEP Jour Fixe
 * [Datei- und Projektnamen in TUSTEP](https://itug.github.io/ITUGJF02/): Nichtkonforme Namen
 * [TUSTEP Standard-Makros](https://itug.github.io/ITUGJF03/): Von RTF mit *import zur Weiterverabeitung mit *satz
+* [Serielles Bearbeiten von Dateien](https://itug.github.io/homepage/pages/documents/2021_05_26_HW_Bartz_ITUG-JF.pdf): Vom 'aufwändigen' Befehl für eine einzelne Datei zum automatischen Bearbeiten beliebig vieler Dateien 'per Knopfdruck', am Beispiel des #*import-Makros
 * [Im- und Export von Tabellenstrukturen](https://itug.github.io/ITUGJF05/): Von EXCEL zu TUSTEP und retour
 * [Segmente und Segmentdateien](https://itug.github.io/ITUGJF06/): Eine Einführung
+* [Vis-à-vis: Zweisprachige Editionen mit TUSTEP](https://github.com/ITUG/ITUGJF08)
 * [Google-Tabellen mit TUSTEP bearbeiten](https://itug.github.io/ITUGJF11/)
 * [TUSTEP als externes Tool in XML-Workflows](https://itug.github.io/ITUGJF12/)

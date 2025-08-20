@@ -10,7 +10,7 @@ ITUG (International TUSTEP USER GROUP)
 
 ## Michael Trauth Gedächnispreis 
 
-* 2024
+* [2024](https://github.com/chsonder/tustep/tree/main/michael_trauth_gedaechtnispreis/2024_neustadt)
 * [2025](https://github.com/ITUG/mtr_preisaufgabe_2025)
 
 ## Workshops / Kurse

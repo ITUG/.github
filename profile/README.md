@@ -12,6 +12,7 @@ ITUG (International TUSTEP USER GROUP)
 
 * [2024](https://github.com/chsonder/tustep/tree/main/michael_trauth_gedaechtnispreis/2024_neustadt)
 * [2025](https://github.com/ITUG/mtr_preisaufgabe_2025)
+* [2026](https://github.com/chsonder/tustep/tree/main/michael_trauth_gedaechtnispreis/2026_neustadt)
 
 ## Workshops / Kurse
 * [TUSCRIPT Sommer Kurs](https://itug.github.io/TUSCRIPT/): TUSCRIPT: Eine Einführung (2021)

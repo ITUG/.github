@@ -17,7 +17,7 @@ ITUG (International TUSTEP USER GROUP)
 ## Workshops / Kurse
 * [TUSCRIPT Sommer Kurs](https://itug.github.io/TUSCRIPT/): TUSCRIPT: Eine Einführung (2021)
 * [TUSCRIPT](https://itug.github.io/ITUG2022_workshop/): Eine Einführung (2022)
-* [ITUG2026 Workshop](https://github.com/ITUG/ITUG2026_workshop): TUSTEP I, II, III (2026)
+* [ITUG2026 Workshop](https://github.com/ITUG/ITUG2026_workshop): Einführung in TUSCRIPT I-III (2026)
 
 ## TUSTEP Jour Fixe
 * [Datei- und Projektnamen in TUSTEP](https://itug.github.io/ITUGJF02/): Nichtkonforme Namen
